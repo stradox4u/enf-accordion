@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# ENF Solar Code Test (Mid-Level Full Stack Developer)
+This is a simple accordion component built using Vue JS and Tailwind CSS, as part of the requirements for an application for the position of Full Stack Developer with ENF Ltd.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Installation
+- Clone the project to your local computer
+- *cd* into the project folder
+- Run *npm install*
+- Run *npm run dev*
+- Visit *localhost:3000* on your browser to see the project
